@@ -45,11 +45,11 @@ Welcome to the Aurora Healthcare website project! This repository contains the s
 # Contributing
 Contributions are welcome! Please follow these steps:
 
--Fork the repository.
--Create a new branch (git checkout -b feature-branch).
--Make your changes and commit them (git commit -am 'Add new feature').
--Push to the branch (git push origin feature-branch).
--Create a new Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
 
 # License
 This project is licensed under the MIT License. 
