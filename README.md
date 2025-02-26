@@ -38,9 +38,9 @@ Welcome to the Aurora Healthcare website project! This repository contains the s
    cd Hospital-website-Aurora
    
 # Usage
--Development: Make changes to the HTML, CSS, and JavaScript files as needed. The website is structured to be easy to navigate and modify.
--Testing: Test the website on different devices and browsers to ensure compatibility and responsiveness.
--Deployment: Upload the website files to your preferred web hosting service to make the site live.
+- Development: Make changes to the HTML, CSS, and JavaScript files as needed. The website is structured to be easy to navigate and modify.
+- Testing: Test the website on different devices and browsers to ensure compatibility and responsiveness.
+- Deployment: Upload the website files to your preferred web hosting service to make the site live.
 
 # Contributing
 Contributions are welcome! Please follow these steps:
